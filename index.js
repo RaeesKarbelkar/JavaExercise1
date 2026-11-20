@@ -7,6 +7,6 @@ let age = 21
 // TODO: Create a fullName variable that combines firstName and lastName 
 fullName = firstName + lastName
 // TODO: Print a greeting to the console using these variables 
-console.log("Hello");
+console.log("Hello "  + fullName );
 // TODO: Try changing the age variable to a different value
 age = 24
